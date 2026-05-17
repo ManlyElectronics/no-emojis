@@ -1,4 +1,5 @@
 # Manly No Emojis
+Published at https://wordpress.org/plugins/manly-no-emojis/
 
 A lightweight WordPress plugin that disables emoji functionality to improve performance and reduce HTTP requests.
 
@@ -52,9 +53,6 @@ GPL-2.0+
 
 Licensed under the GNU General Public License v2 or later. See [LICENSE](https://www.gnu.org/licenses/gpl-2.0.html) for details.
 
-## WordPress Plugin Directory
-
-Published at https://wordpress.org/plugins/manly-no-emojis/
 
 ## Author
 
