@@ -6,7 +6,7 @@
  * Author: Manly Electronics
  * Author URI: https://manlyelectronics.com.au
  * License: GPL2
- * Requires PHP: 7.2
+ * Requires PHP: 7.4
  *
  * @category  Plugin
  * @package   Manly_No_Emojis
@@ -14,7 +14,7 @@
  * @license   GPL2 https://www.gnu.org/licenses/gpl-2.0.html
  * @link      https://manlyelectronics.com.au
  * @since     1.0.0
- * PHP Version 7.2
+ * PHP Version 7.4
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
