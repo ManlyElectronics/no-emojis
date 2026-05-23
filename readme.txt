@@ -4,7 +4,7 @@ Tags: emoji, performance, speed, disable, optimization
 Requires at least: 5.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,9 @@ No. This plugin only removes emoji-related scripts and styles. Regular text and 
 Yes, but they will display as plain text characters or native OS emojis instead of WordPress's Twitter-style images.
 
 == Changelog ==
+
+= 1.0.3 =
+* Updated: Requires PHP bumped to 7.4 (WordPress 7.0 minimum); Tested up to 7.0.
 
 = 1.0.2 =
 * Fixed: Coding standards compliance (WordPress PHPCS).
