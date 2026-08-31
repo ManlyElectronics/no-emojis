@@ -2,9 +2,9 @@
 Contributors: DimitriAus
 Tags: emoji, performance, speed, disable, optimization
 Requires at least: 5.0
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,8 +41,11 @@ Yes, but they will display as plain text characters or native OS emojis instead 
 
 == Changelog ==
 
+= 1.0.4 =
+* Updated: Tested up to WordPress 7.1.
+
 = 1.0.3 =
-* Updated: Requires PHP bumped to 7.4 (WordPress 7.0 minimum); Tested up to 7.0.
+* Updated: Requires PHP bumped to 7.4 (WordPress 7.0 minimum); Tested up to 7.1.
 
 = 1.0.2 =
 * Fixed: Coding standards compliance (WordPress PHPCS).

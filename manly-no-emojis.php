@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Manly No Emojis
  * Description: Disables the emoji functionality in WordPress to improve performance.
- * Version: 1.0.3
+ * Version: 1.0.4
  * Author: Manly Electronics
  * Author URI: https://manlyelectronics.com.au
  * License: GPL2
