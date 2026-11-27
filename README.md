@@ -34,7 +34,7 @@ A lightweight WordPress plugin that disables emoji functionality to improve perf
 
 Go to **Settings > Manly No Emojis** to choose how emojis appear in post and page content and comments:
 
-- **Leave emojis unchanged** (default): Leaves emoji characters as they are.
+- **Leave emojis unchanged** (default): Leaves emoji characters as they are, but still disables WordPress emoji scripts and styles.
 - **Replace common emojis with descriptions**: Replaces common emojis with English descriptions, such as `[grinning face]`, and removes other emojis recognized by WordPress.
 - **Remove emojis without descriptions**: Removes emojis recognized by WordPress without adding descriptions.
 
