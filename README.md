@@ -19,8 +19,6 @@ A lightweight WordPress plugin that disables emoji functionality to improve perf
 - Emoji handling in emails
 - DNS prefetch for emoji CDN
 
-Optionally, the plugin can replace common emojis with English descriptions and remove other recognized emojis, or remove all emojis recognized by the installed WordPress version without descriptions. This applies to displayed post and page content and comments, is off by default, and does not change saved content. HTML attributes and text in code, preformatted, script, style, and textarea elements are left unchanged.
-
 ## Requirements
 
 - **WordPress**: 5.0 or higher (tested up to 7.2)
@@ -32,7 +30,15 @@ Optionally, the plugin can replace common emojis with English descriptions and r
 2. Activate the plugin through the **Plugins** menu in WordPress
 3. Done! No configuration needed.
 
-To change how emojis appear in content, go to **Settings > Manly No Emojis** and select an option.
+## Settings
+
+Go to **Settings > Manly No Emojis** to choose how emojis appear in post and page content and comments:
+
+- **Leave emojis unchanged** (default): Leaves emoji characters as they are.
+- **Replace common emojis with descriptions**: Replaces common emojis with English descriptions, such as `[grinning face]`, and removes other emojis recognized by WordPress.
+- **Remove emojis without descriptions**: Removes emojis recognized by WordPress without adding descriptions.
+
+WordPress emoji scripts and styles remain disabled in all modes. These options affect displayed content only; saved content is not changed. HTML attributes and text in code, preformatted, script, style, and textarea elements are left unchanged.
 
 ## FAQ
 
